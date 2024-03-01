@@ -15,4 +15,3 @@ r = float(input("Ingrese el valor del radio del planeta en m:\n>"))
 # formula de Velocidad de Escape
 Ve = (2 * g * r) ** (1/2)
 print(f"Velocidad de Escape del planeta es: {math.ceil(Ve)}")
-
